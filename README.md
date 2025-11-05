@@ -26,11 +26,6 @@ I build clean, production-ready **web** and **mobile** apps — from polished Re
   `SSR/SSG • SEO • Deployment`  
   👉 https://github.com/laraandrew/personal-website • Live: https://andrew-lara.com
 
-- **Tap Tutor — React**  
-  Interactive timing practice app.  
-  `UI/UX • State management`  
-  👉 https://github.com/laraandrew/tap-tutor
-
 ---
 
 ## 🧰 Tech I Use
