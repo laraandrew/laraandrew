@@ -35,5 +35,5 @@ RL tooling: OpenAI Gym / OpenEnv · PyTorch · Hugging Face
 
 ## Connect
 
-- Portfolio: [andrew-lara.com](https://andrew-lara.com)
+- Portfolio: [andrewlara.com](https://andrewlara.com)
 - LinkedIn: [linkedin.com/in/laraandrew](https://www.linkedin.com/in/laraandrew)
